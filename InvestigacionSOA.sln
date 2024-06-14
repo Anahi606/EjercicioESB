@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "InvestigacionSOA", "InvestigacionSOA.pyproj", "{1325C08B-F25E-4E58-8D6D-CA523AC87F3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C7577E97-E131-478B-B2E6-6DE3A9C30589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1325C08B-F25E-4E58-8D6D-CA523AC87F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1325C08B-F25E-4E58-8D6D-CA523AC87F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDEAC965-809E-4F41-B0E4-8D68B1328190}
+	EndGlobalSection
+EndGlobal
